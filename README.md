@@ -37,5 +37,5 @@ To start my career in the software industry, apply my technical knowledge to rea
 
 ### 📫 Connect With Me
 
-- LinkedIn: [Sri Akshaya](www.linkedin.com/in/sri-akshaya-raja-8078a2428)
+- LinkedIn: [Sri Akshaya] www.linkedin.com/in/sri-akshaya-raja-8078a2428
 - GitHub: [Sri Akshaya](YOUR-GITHUB-LINK)
