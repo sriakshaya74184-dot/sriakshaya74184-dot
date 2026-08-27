@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Sri Akshaya 👋
 
-<!--
-**sriakshaya74184-dot/sriakshaya74184-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Sc. Information Technology Student at Lady Doak College
 
-Here are some ideas to get you started:
+💻 Aspiring Software & Mobile Application Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am an enthusiastic IT student interested in building practical applications and continuously improving my technical skills.
+
+### 💻 Technical Interests
+
+- Java
+- Flutter & Dart
+- HTML, CSS & JavaScript
+- Firebase
+- SQL
+- MongoDB
+- Android Development
+
+### 🚀 Featured Project
+
+**MindTrace – Digital Well-being & Mental Wellness App**
+
+A Flutter-based mobile application designed to help users monitor digital habits, track moods, build healthy routines, and improve overall well-being.
+
+### 📚 Currently Learning
+
+- Data Structures & Algorithms
+- Java
+- SQL & DBMS
+- AI & Generative AI
+- MongoDB
+- Git & GitHub
+
+### 🎯 Career Goal
+
+To start my career in the software industry, apply my technical knowledge to real-world problems, and continuously grow as a developer.
+
+### 📫 Connect With Me
+
+- LinkedIn: [Sri Akshaya](www.linkedin.com/in/sri-akshaya-raja-8078a2428)
+- GitHub: [Sri Akshaya](YOUR-GITHUB-LINK)
